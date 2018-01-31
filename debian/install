@@ -1,0 +1,3 @@
+i386-softmmu/qemu-system-i386        /usr/share/panda/i386-softmmu/
+x86_64-softmmu/qemu-system-x86_64    /usr/share/panda/x86_64-softmmu/
+arm-softmmu/qemu-system-arm          /usr/share/panda/arm-softmmu/

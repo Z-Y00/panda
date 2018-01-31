@@ -1,0 +1,7 @@
+panda (?? version here) UNRELEASED; urgency=low
+
+  * Initial release.
+  * there is just the three files in three folders under /usr/share/panda
+  * no doc installed, you can check the doc on the web
+
+ -- GengYu Rao <zouyoo@outlook.com>  Thu, 25 Jan 2018 00:00:02 +0800

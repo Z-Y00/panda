@@ -1,0 +1,14 @@
+Source: panda
+Section: utility
+Priority: optional
+Maintainer: GengYu Rao <zouyoo@outlook.com>
+Build-Depends: llvm-3.3, llvm-3.3-dev, python-pip, protobuf-compiler, protobuf-c-compiler, python-pycparser, clang-3.3, libc++-dev
+Standards-Version: 4.1.3
+Homepage: https://github.com/panda-re/panda
+
+Package: panda
+Architecture: any
+Multi-Arch: foreign
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: Platform for Architecture-Neutral Dynamic Analysis 
+ skip the longer one here
